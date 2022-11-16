@@ -1,4 +1,4 @@
-# -example_vulnerable_echo_server
+# example_vulnerable_echo_server
 
 Note: Very old but may still be of some use. Extremely simple example for win32 buffer overflows.
 
